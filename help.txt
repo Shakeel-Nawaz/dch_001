@@ -1,0 +1,6 @@
+# To create virtual evnironment in Python by BASH, Use """ py -m venv <name for v.environment> """
+# To activate environment in BASH, Go inside the environment folder using """ cd <path> """, Next type """ source Scripts/activate """
+# To de-activate environment in BASH, Use """ deactivate """
+# To run executable file in BASH, Use """ ./<filename>.exe  """
+# Use this link to get REDIS-SERVER Folder """ https://github.com/tporadowski/redis/releases """ or For zip format """ https://github.com/tporadowski/redis/releases/download/v5.0.10/Redis-x64-5.0.10.zip """ or For msi format """ https://github.com/tporadowski/redis/releases/download/v5.0.10/Redis-x64-5.0.10.msi """
+# To start REDIS server in Windows BASH, Go inside the redis folder using """ cd <path> """ , Next type """ redis-server.exe redis.windows.conf """
